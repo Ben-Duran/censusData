@@ -1,0 +1,201 @@
+code,Ethnicity,Population
+North East,N/A,0
+North East,ABBangladeshi,16355
+North East,ABChinese,14442
+North East,ABIndian,22021
+North East,ABPakistani,27290
+North East,ABAsian,17938
+North East,BBAfrican,22066
+North East,BBCaribbean,1704
+North East,BBBlack,2865
+North East,whiteAndAsian,12490
+North East,whiteAndBlackAfrican,6527
+North East,whiteAndBlackCaribbean,5650
+North East,multiple,8604
+North East,wBritish,2397557
+North East,wIrish,8384
+North East,wTraveller,2621
+North East,wRoma,2375
+North East,wOther,51783
+North East,arab,10406
+North East,other,15936
+North West,N/A,0
+North West,ABBangladeshi,60859
+North West,ABChinese,54051
+North West,ABIndian,140413
+North West,ABPakistani,303611
+North West,ABAsian,63751
+North West,BBAfrican,126608
+North West,BBCaribbean,25919
+North West,BBBlack,21391
+North West,whiteAndAsian,47829
+North West,whiteAndBlackAfrican,30011
+North West,whiteAndBlackCaribbean,46962
+North West,multiple,38443
+North West,wBritish,6019385
+North West,wIrish,61422
+North West,wTraveller,5741
+North West,wRoma,7359
+North West,wOther,253487
+North West,arab,43865
+North West,other,66291
+Yorkshire and The Humber,N/A,0
+Yorkshire and The Humber,ABBangladeshi,29018
+Yorkshire and The Humber,ABChinese,29589
+Yorkshire and The Humber,ABIndian,81322
+Yorkshire and The Humber,ABPakistani,296437
+Yorkshire and The Humber,ABAsian,50689
+Yorkshire and The Humber,BBAfrican,80907
+Yorkshire and The Humber,BBCaribbean,22736
+Yorkshire and The Humber,BBBlack,14000
+Yorkshire and The Humber,whiteAndAsian,36888
+Yorkshire and The Humber,whiteAndBlackAfrican,15644
+Yorkshire and The Humber,whiteAndBlackCaribbean,39296
+Yorkshire and The Humber,multiple,25189
+Yorkshire and The Humber,wBritish,4431265
+Yorkshire and The Humber,wIrish,25215
+Yorkshire and The Humber,wTraveller,5891
+Yorkshire and The Humber,wRoma,9464
+Yorkshire and The Humber,wOther,208130
+Yorkshire and The Humber,arab,25474
+Yorkshire and The Humber,other,53620
+East Midlands,N/A,0
+East Midlands,ABBangladeshi,20980
+East Midlands,ABChinese,22973
+East Midlands,ABIndian,229831
+East Midlands,ABPakistani,71038
+East Midlands,ABAsian,46281
+East Midlands,BBAfrican,83161
+East Midlands,BBCaribbean,30828
+East Midlands,BBBlack,15997
+East Midlands,whiteAndAsian,30803
+East Midlands,whiteAndBlackAfrican,14341
+East Midlands,whiteAndBlackCaribbean,46400
+East Midlands,multiple,25703
+East Midlands,wBritish,3882390
+East Midlands,wIrish,27130
+East Midlands,wTraveller,4620
+East Midlands,wRoma,7196
+East Midlands,wOther,258438
+East Midlands,arab,13360
+East Midlands,other,48584
+West Midlands,N/A,0
+West Midlands,ABBangladeshi,77518
+West Midlands,ABChinese,33301
+West Midlands,ABIndian,276030
+West Midlands,ABPakistani,319165
+West Midlands,ABAsian,88250
+West Midlands,BBAfrican,146089
+West Midlands,BBCaribbean,90192
+West Midlands,BBBlack,32738
+West Midlands,whiteAndAsian,46478
+West Midlands,whiteAndBlackAfrican,16011
+West Midlands,whiteAndBlackCaribbean,81193
+West Midlands,multiple,34542
+West Midlands,wBritish,4275557
+West Midlands,wIrish,47886
+West Midlands,wTraveller,6207
+West Midlands,wRoma,6809
+West Midlands,wOther,248565
+West Midlands,arab,31790
+West Midlands,other,92436
+East of England,N/A,0
+East of England,ABBangladeshi,50685
+East of England,ABChinese,38444
+East of England,ABIndian,136974
+East of England,ABPakistani,99452
+East of England,ABAsian,80314
+East of England,BBAfrican,118731
+East of England,BBCaribbean,41884
+East of England,BBBlack,24334
+East of England,whiteAndAsian,51448
+East of England,whiteAndBlackAfrican,27376
+East of England,whiteAndBlackCaribbean,51950
+East of England,multiple,48880
+East of England,wBritish,4972149
+East of England,wIrish,57964
+East of England,wTraveller,8977
+East of England,wRoma,9675
+East of England,wOther,429599
+East of England,arab,15639
+East of England,other,70593
+London,N/A,0
+London,ABBangladeshi,322054
+London,ABChinese,147520
+London,ABIndian,656272
+London,ABPakistani,290549
+London,ABAsian,401245
+London,BBAfrican,697054
+London,BBCaribbean,345405
+London,BBBlack,145911
+London,whiteAndAsian,125188
+London,whiteAndBlackAfrican,77341
+London,whiteAndBlackCaribbean,132555
+London,multiple,170691
+London,wBritish,3239281
+London,wIrish,156333
+London,wTraveller,7031
+London,wRoma,37689
+London,wOther,1290838
+London,arab,139791
+London,other,416977
+South East,N/A,0
+South East,ABBangladeshi,39881
+South East,ABChinese,64329
+South East,ABIndian,241537
+South East,ABPakistani,145311
+South East,ABAsian,159487
+South East,BBAfrican,150540
+South East,BBCaribbean,43523
+South East,BBBlack,27521
+South East,whiteAndAsian,88106
+South East,whiteAndBlackAfrican,38633
+South East,whiteAndBlackCaribbean,62087
+South East,multiple,72045
+South East,wBritish,7315058
+South East,wIrish,78219
+South East,wTraveller,16748
+South East,wRoma,12786
+South East,wOther,586569
+South East,arab,29574
+South East,other,106109
+South West,N/A,0
+South West,ABBangladeshi,12217
+South West,ABChinese,26516
+South West,ABIndian,58847
+South West,ABPakistani,17432
+South West,ABAsian,44172
+South West,BBAfrican,43318
+South West,BBCaribbean,17226
+South West,BBBlack,9070
+South West,whiteAndAsian,34960
+South West,whiteAndBlackAfrican,15644
+South West,whiteAndBlackCaribbean,33217
+South West,multiple,30253
+South West,wBritish,5008149
+South West,wIrish,31698
+South West,wTraveller,6382
+South West,wRoma,5785
+South West,wOther,257594
+South West,arab,10302
+South West,other,38404
+Wales,N/A,0
+Wales,ABBangladeshi,15314
+Wales,ABChinese,14454
+Wales,ABIndian,21070
+Wales,ABPakistani,17534
+Wales,ABAsian,20656
+Wales,BBAfrican,19907
+Wales,BBCaribbean,3700
+Wales,BBBlack,3947
+Wales,whiteAndAsian,14035
+Wales,whiteAndBlackAfrican,8068
+Wales,whiteAndBlackCaribbean,13732
+Wales,multiple,12763
+Wales,wBritish,2814247
+Wales,wIrish,13214
+Wales,wTraveller,3550
+Wales,wRoma,1843
+Wales,wOther,82994
+Wales,arab,11641
+Wales,other,14825
